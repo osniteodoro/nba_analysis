@@ -5,6 +5,6 @@
 <ul>
 <li class="has-line-data" data-line-start="26" data-line-end="28">
 <p class="has-line-data" data-line-start="26" data-line-end="28">[Código também disponível no Kaggle]<br>
-<a href="https://www.kaggle.com/code/osniteodoro/nba-analysis-otsjr">https://www.kaggle.com/code/osniteodoro/nba-analysis-otsjr</a></p>
+<a href="https://www.kaggle.com/code/osniteodoro/nba-regular-season-and-22-23-playoffs-analysis">https://www.kaggle.com/code/osniteodoro/nba-regular-season-and-22-23-playoffs-analysis</a></p>
 </li>
   </ul>
